@@ -2,7 +2,7 @@
 
 A modern React + Tailwind CSS project showcasing plant products with glassmorphism design, responsive layout, and carousel features.
 
-Deployed on GitHub Pages: [https://Manikandan0018.github.io/Softdef-intern]
+Deployed on vercel: https://softdef-intern-mtzvugwu2-manikandan0018s-projects.vercel.app/
 
 (https://Manikandan0018.github.io/Softdef-intern)
 
